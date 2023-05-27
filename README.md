@@ -56,6 +56,8 @@ Confirm the ACR creation:
   ```ex
   az acr list --resource-group AZ500LAB09
   ```
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/ACR%20Resource%20Group%20List.png?raw=true" height="60%" width="60%" alt="ACR Resource Group List"/>
+  
   </details>
   
   #
