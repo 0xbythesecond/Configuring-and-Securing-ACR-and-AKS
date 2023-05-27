@@ -94,6 +94,10 @@ Verify the image in ACR: <br />
 Navigate to the ACR instance in the Azure portal, go to Repositories, and check the sample/nginx:v1 image.
  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Verify%20Sample%20Repository%20in%20Container%20Registry.png?raw=true" height="70%" width="70%" alt="sample repository"/>
   
+v1 image
+  
+ <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Verify%20v1%20image%20version%20is%20found%20in%20Repository.png?raw=true" height="70%" width="70%" alt="verify v1 image"/>
+  
 </details>
 
 #
