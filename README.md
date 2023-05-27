@@ -92,7 +92,7 @@ Build and push the image:
   
 Verify the image in ACR: <br />
 Navigate to the ACR instance in the Azure portal, go to Repositories, and check the sample/nginx:v1 image.
- <img src="https://png.pngtree.com/png-vector/20210604/ourmid/pngtree-gray-network-placeholder-png-image_3416659.jpg" height="50%" width="50%" alt="sample repository"/>
+ <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Verify%20Sample%20Repository%20in%20Container%20Registry.png?raw=true" height="70%" width="70%" alt="sample repository"/>
   
 </details>
 
