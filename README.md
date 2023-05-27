@@ -38,6 +38,8 @@ Create a new resource group for the lab:
   az group create --name AZ500LAB09 --location southcentralus
   ```
   
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Create%20Resource%20Group%20in%20Bash.png?raw=true" height="60%" width="60%" alt="create resource group in bash"/>
+  
 Verify the resource group creation: 
   ```ex
   az group list --query "[?name=='AZ500LAB09']" -o table
