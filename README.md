@@ -84,6 +84,7 @@ Build and push the image:
   
 Verify the image in ACR: <br />
 Navigate to the ACR instance in the Azure portal, go to Repositories, and check the sample/nginx:v1 image.
+ <img src="https://png.pngtree.com/png-vector/20210604/ourmid/pngtree-gray-network-placeholder-png-image_3416659.jpg" height="50%" width="50%" alt="sample repository"/>
   
 </details>
 
@@ -100,6 +101,17 @@ Create an AKS cluster:
 - Search for Kubernetes services in the Azure portal. <br />
 - Click + Create and select + Create a Kubernetes cluster. <br />
 - Configure the cluster settings and deploy it. <br /> 
+  
+|Setting	| Value|
+|----- | ----- |
+|Subscription |	the name of the Azure subscription you are using in this lab
+|Resource group |	AZ500LAB09|
+|Kubernetes cluster name |	MyKubernetesCluster|
+|Region |	(US) South Central US|
+|Availability zones |	None|
+|Scale method |	Manual|
+|Node count |	1|
+  
 - Verify the deployment and review the resources in the created resource group.
   
   </details>
