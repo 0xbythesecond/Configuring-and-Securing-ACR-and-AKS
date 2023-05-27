@@ -84,8 +84,10 @@ Set the ACR name:
   
 Build and push the image: 
   
+  >**Note**: The trailing period at the end of the command line is required. It designates the current directory as the location of Dockerfile.
+  
   ```ex
-  az acr build --resource-group AZ500LAB09 --image sample/nginx:v1 --registry $ACRNAME --file Dockerfile 
+  az acr build --resource-group AZ500LAB09 --image sample/nginx:v1 --registry $ACRNAME --file Dockerfile .
   ```
   
 Verify the image in ACR: <br />
