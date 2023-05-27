@@ -45,6 +45,8 @@ Verify the resource group creation:
   az group list --query "[?name=='AZ500LAB09']" -o table
   ```
   
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Verify%20Resource%20Group%20has%20bee%20Created%20in%20Bash.png?raw=true" height="60%" width="60%" alt="verify resource group has been created in bash"/>
+  
 Create a new Azure Container Registry (ACR) instance:
   ```ex
   az acr create --resource-group AZ500LAB09 --name az500$RANDOM$RANDOM --sku Basic
