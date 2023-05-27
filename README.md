@@ -1,6 +1,6 @@
 # Configuring-and-Securing-ACR-and-AKS
 
-<img src="https://png.pngtree.com/png-vector/20210604/ourmid/pngtree-gray-network-placeholder-png-image_3416659.jpg" height="50%" width="50%" alt="Configuring ans Securigin Diagram"/>
+<img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Configuring%20and%20Securing%20ACR%20and%20AKS%20diagram.gif?raw=true" height="100%" width="100%" alt="Configuring ans Securigin Diagram"/>
 
 ## Introduction
 Welcome to this lesson on configuring and securing Azure Container Registry (ACR) and Azure Kubernetes Service (AKS). In this lesson, you will learn how to effectively set up and secure your container registry and Kubernetes cluster, enabling you to deploy and manage containerized applications with confidence. By following the step-by-step tasks outlined in this lesson, you will gain practical knowledge and hands-on experience in configuring ACR and AKS to meet your organization's requirements.
