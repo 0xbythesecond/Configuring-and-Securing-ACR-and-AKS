@@ -112,6 +112,9 @@ Create an AKS cluster:
   
 - Search for Kubernetes services in the Azure portal. <br />
 - Click + Create and select + Create a Kubernetes cluster. <br />
+  
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Create%20Kubernetes%20Cluster.png?raw=true" height="50%" width="50%" alt="create kubernetes cluster"/>
+  
 - Configure the cluster settings and deploy it. <br /> 
   
 |Setting	| Value|
