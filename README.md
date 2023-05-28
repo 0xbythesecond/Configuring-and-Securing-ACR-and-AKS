@@ -257,6 +257,9 @@ Retrieve information about the nginxinternal service:
    ```elm
    kubectl get service nginx internal
    ```
+   
+   <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Retrieve%20Information%20about%20the%20NGINXinternal%20service.png?raw=true" height="60%" width="60%" alt="retrieve information about nginxinternal"/>
+        
   </details> 
  
   #
