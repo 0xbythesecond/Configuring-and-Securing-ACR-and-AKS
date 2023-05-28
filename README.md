@@ -204,9 +204,7 @@ In the Bash session within the Cloud Shell pane, review the output of the comman
  deployment.apps/nginxexternal created
  service/nginxexternal created
 ```
-
-Replace the ACR name in the nginxexternal.yaml file.
-Apply the changes to the cluster: kubectl apply -f nginxexternal.yaml
+  
   </details>
   
   #
