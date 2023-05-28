@@ -301,6 +301,8 @@ In the Bash session within the Cloud Shell pane (connected to the pod), run the 
 ```elm
 curl http://<internal_IP>
 ```
+
+<img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Verify%20that%20the%20nginx%20web%20site%20is%20available%20via%20the%20private%20IP%20address.png?raw=true" height="60%" width="60%" alt="verify that nginx website is available"/>
     
 This command will verify that the nginx web site is accessible via the private IP address of the internal service.
 
