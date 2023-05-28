@@ -280,6 +280,8 @@ Run the following command to list the pods in the default namespace on the AKS c
 kubectl get pods
 ```   
   
+<img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Get%20Pod%20Names.png?raw=true" height="60%" width="60%" alt="get pods"/>
+    
 Locate the first entry in the NAME column of the pod listing and make note of its name. This pod will be used in the subsequent steps.
 
 Step 2: Connect interactively to the first pod
