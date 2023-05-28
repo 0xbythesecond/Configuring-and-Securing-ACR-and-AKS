@@ -324,6 +324,8 @@ Run the following command in the PowerShell session within the Cloud Shell pane 
 ```powershell
 Remove-AzResourceGroup -Name "AZ500LAB09" -Force -AsJob
 ```    
+ 
+<img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Delete%20Resource%20Group.png?raw=true" height="60%" width="60%" alt="Delete resource group in powershell"/>    
     
 Close the Cloud Shell pane to complete the cleanup process.
 
