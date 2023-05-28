@@ -188,6 +188,7 @@ In the Bash session within the Cloud Shell pane, run the following to open the n
   >**Note**: This is the external yaml file.
 
 In the editor pane, scroll down to line 24 and replace the <ACRUniquename> placeholder with the ACR name.
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Edit%20Yaml%20File%20for%20NGINXexternal.png?raw=true" height="60%" width="60%" alt="edit line 24 for ACN name"/>
 
 In the editor pane, in the upper right corner, click the ellipses icon, click Save and then click Close editor.
 
