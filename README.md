@@ -222,7 +222,11 @@ Retrieve information about the nginxexternal service:
 kubectl get service nginxexternal
 ```
     
+<img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/Retrieve%20Information%20about%20the%20NGINXexternal%20service.png?raw=true" height="60%" width="60%" alt="retrieve information about the nginxexternal"/>
+    
 Access the external service using the External-IP in a web browser.
+<img src="" height="60%" width="60%" alt="external IP address in web browser"/>    
+    
 </details>
 
  #
