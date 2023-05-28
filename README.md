@@ -128,6 +128,7 @@ Create an AKS cluster:
 |Node count |	1|
   
 - Verify the deployment and review the resources in the created resource group.
+  <img src="https://github.com/0xbythesecond/Configuring-and-Securing-ACR-and-AKS/blob/main/AKS%20Review%20and%20Create.png?raw=true" height="50%" width="50%" alt="Review and Create Kubernetes Service"/>
   
   </details>
   
@@ -140,8 +141,13 @@ Create an AKS cluster:
 ### Task 4: Grant AKS cluster permissions
 
   </summary> 
-Grant AKS cluster permissions to access ACR: az aks update -n MyKubernetesCluster -g AZ500LAB09 --attach-acr $ACRNAME
-Grant AKS cluster Contributor role to its virtual network:
+Grant AKS cluster permissions to access ACR:
+  
+```ex
+  az aks update -n MyKubernetesCluster -g AZ500LAB09 --attach-acr $ACRNAME
+```
+  
+Grant AKS cluster Contributor role to its virtual network:<br />
 Define variables:
   
   ```ex
