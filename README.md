@@ -331,4 +331,7 @@ By removing the unnecessary resources, you ensure a clean and cost-effective env
     
 </details> 
 
+## Reflection
+
+In this lab exercise, I configured and secured an Azure Container Registry (ACR) and an Azure Kubernetes Service (AKS) in the South Central (US) region. I completed tasks such as creating a resource group, creating an ACR instance, building a Docker image and pushing it to the ACR, creating an AKS cluster, granting AKS cluster permissions to access the ACR and manage its virtual network, deploying external and internal services to AKS, and verifying the accessibility of both services. We also cleaned up the resources afterward. Overall, the exercise involved creating and configuring ACR and AKS, deploying container images, managing permissions, and verifying service accessibility. It has been quite experience working with these technologies. 
 
